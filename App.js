@@ -7,7 +7,7 @@ import cloudy from "./images/cloudy.jpg";
 import stormy from "./images/stormy.jpg";
 
 function App() {
-    const API_KEY = "0182016c411779f95e452911a5ea7cf5"; // Replace with your OpenWeather API key
+    const API_KEY = "your api token"; // Replace with your OpenWeather API key
     const [city, setCity] = useState("Delhi"); // Default city
     const [weather, setWeather] = useState("sunny"); // Default weather
     const [temperature, setTemperature] = useState(null); // Temperature
