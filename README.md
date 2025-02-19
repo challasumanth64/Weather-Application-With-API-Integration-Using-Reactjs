@@ -1,4 +1,4 @@
-# Web-Application-With-API-Integration-Using-Reactjs
+# Weather-Application-With-API-Integration-Using-Reactjs
 🌦️ Weather React App
 Project Description
 The Weather React App is a user-friendly and visually appealing application built with React.js that provides real-time weather updates for cities across India and beyond. It uses the OpenWeatherMap API to fetch live weather data, including temperature, weather conditions, and more. The app dynamically changes its background and icons based on the current weather, offering an immersive user experience.
